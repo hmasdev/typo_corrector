@@ -1,0 +1,10 @@
+langchain
+openai
+pyautogui
+pydantic
+pynput
+pyperclip
+# tkinter # windows-only
+
+types-PyAutoGUI
+types-pynput
